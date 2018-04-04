@@ -34,7 +34,7 @@
 
 		$(this).click(function(){
 
-				$(".inner").animate({"marginLeft":`${-1200*index}px`});
+				$(".inner").animate({"marginLeft":`${-1214*index}px`});
 
 		})
 	})
